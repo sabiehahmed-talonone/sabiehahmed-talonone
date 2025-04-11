@@ -28,7 +28,7 @@
 
 ## 💳 Github Profile Summary Card
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sabiehahmed10p&theme=vue"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sabiehahmed-talonone&theme=vue"/>
 </p>
 
 ## 📟 GitHub Stats
@@ -41,4 +41,4 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sabiehahmed10p&icon=0&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=sabiehahmed-talononep&icon=0&color=1)](https://visitcount.itsvg.in)
