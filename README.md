@@ -9,7 +9,7 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
 # 💫 About Me :
-- 🔭 I’m Lead Software Engineer @ Talon.One GMBH
+- 🔭 I’m Software Engineer @ Talon.One GMBH
 - 🌱 I’m currently learning more about Go and IAC.
 - 💬 Ask me about AWS/NodeJs/React Related Stuff
 - 📫 How to reach me: Check social links below.
